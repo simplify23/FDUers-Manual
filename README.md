@@ -17,7 +17,7 @@
 * [序](Preface/Preface.md)
 
 ### 在校准备 (School Preparation)
-* [本科课程成绩及相关评优](School-Preparation/1.1_本科课程成绩及相关评优.tex)
+* [本科课程成绩及相关评优](School-Preparation/1.1_本科课程成绩及相关评优.md)
 * [研究生实习](School-Preparation/1.2_研究生实习.tex)
 * [科研论文](School-Preparation/1.3_科研论文.tex)
 * [学术竞赛](School-Preparation/1.4_学术竞赛.tex)
@@ -50,7 +50,7 @@
 * [王真星-上海第二工业大学副教授](Interviews/4.8_王真星-上海第二工业大学副教授.tex)
 * [肖钒-腾讯音乐大模型算法工程师](Interviews/4.9_肖钒-腾讯音乐大模型算法工程师.tex)
 * [肖杨-微软上海软件开发](Interviews/4.10_肖杨-微软上海软件开发.tex)
-* [C-大模型公司 AI Infra工程师](Interviews/4.11_C-大模型公司 AI Infra工程师.tex)
+* [C-大模型公司 AI Infra工程师](Interviews/4.11_C-大模型公司-AI-Infra工程师.tex)
 * [陈学长-java后端工程师](Interviews/4.12_陈学长-java后端工程师.tex)
 * [陈学长-某国企翼云后端开发工程师](Interviews/4.13_陈学长-某国企翼云后端开发工程师.tex)
 * [姜先生-招商门户创业](Interviews/4.14_姜先生-招商门户创业.tex)
