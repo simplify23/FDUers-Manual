@@ -17,7 +17,7 @@
 * [序](Preface/Preface.md)
 
 ### 在校准备 (School Preparation)
-* [本科课程成绩及相关评优](#School-Preparation/1.1_本科课程成绩及相关评优.tex)
+* [本科课程成绩及相关评优](School-Preparation/1.1_本科课程成绩及相关评优.tex)
 * [研究生实习](#School-Preparation/1.2_研究生实习.tex)
 * [科研论文](#School-Preparation/1.3_科研论文.tex)
 * [学术竞赛](#School-Preparation/1.4_学术竞赛.tex)
